@@ -20,7 +20,7 @@ All optimization problems are implemented in Python using scikit-learn API and i
   - This file is in Python which corresponds to the files named "classification_SVM_crossvalidation_i" and "classification_SVM_crossvalidation_i_k". We use this files to visualize the performance of classifiers.
   
 - "UC.py"
-  - We use this file to score the performance of classifiers based on the hing loss function. You can do the same with the files named "classification_SVM_crossvalidation_i" and "classification_SVM_crossvalidation_i_k".
+  - We use this file to score the performance of classifiers based on the hing loss function. You can do the same with the files named "classification_SVM_crossvalidation_i" and "classification_SVM_crossvalidation_i_k". Here two different test datasets are provided, each with 1, 000 samples, one is more similar to the training dataset named "baised_test_dataset", while the other one named "unbaised_test_dataset" is less similar. 
 
 
 #### IEEE 118-bus test system: 
