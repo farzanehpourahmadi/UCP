@@ -24,4 +24,4 @@ All optimization problems are implemented in Python using scikit-learn API and i
 
 
 #### IEEE 118-bus test system: 
-We have files similar to the IEEE 6-bus test system.
+We have files similar to the IEEE 6-bus test system. In this folder, load and wind profiles and the features used for training and testing are provided in seperate files.
